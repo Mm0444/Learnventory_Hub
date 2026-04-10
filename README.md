@@ -61,9 +61,6 @@ Instead of relying on handwritten records, this platform provides a robust web-b
 **Database:**
 - MySQL  
 ---
----
-
----
 
 ## 🚀 Installation Guide
 
